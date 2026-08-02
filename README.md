@@ -61,19 +61,6 @@ The exploded configuration includes:
 
 This visualization helps engineers understand the relationship between components and simplifies maintenance, assembly, and documentation.
 
----
-
-# 📷 Project Images
-
-## 🔹 Assembled Robot
-
-*(Insert assembled robot image here.)*
-
----
-
-## 🔹 Exploded View
-
-*(Insert exploded view image here.)*
 
 ---
 
